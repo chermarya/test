@@ -1,0 +1,18 @@
+.image{
+    background-image: url(../img/method_bg.jpeg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 100%;
+    height: 924px;
+    color: #fff;
+}
+.cover{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(68, 51, 41, 0.5);
+}
+.cover p{
+    margin: 0;
+    padding: 0;
+}
